@@ -1,6 +1,6 @@
 # Deep Learning for Computer Vision (DLCV)
 
-This repository contains my homework assignments and final project for the **Deep Learning for Computer Vision (DLCV)** course at **National Taiwan University (NTU), Fall 2025 (113-1)**.  
+This repository contains my homework assignments and final project for the **Deep Learning for Computer Vision (DLCV)** course at **National Taiwan University (NTU), Fall 2024**.  
 
 ---
 
